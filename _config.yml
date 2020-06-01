@@ -2,6 +2,7 @@
 title: How green is it out there?
 email: sean.kearney@usda.gov
 url: https://kearney-sp.github.io/grayscale-theme/
+baseurl: /grayscale-theme
 description: "See how green the CARM pastures are at the Central Plains Experimental Research station in Colorado."
 
 # Color settings (hex-codes without the leading hash-tag)
