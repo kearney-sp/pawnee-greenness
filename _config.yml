@@ -4,7 +4,7 @@ email: sean.kearney@usda.gov
 url: https://kearney-sp.github.io/grayscale-theme/
 baseurl: /grayscale-theme
 description: "Use the interactive maps below to see how green the allotments are across the Pawnee National Grasslands.
-Maps show satellite-detected the current 'actual' greenness, and greenness relative to historical averages."
+Maps show satellite-detected greenness and cumulative greeness (an indicator of forage production) relative to historical averages."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
